@@ -1,8 +1,8 @@
 line_id,code,name,network,operator,colour,mode,ref:FR:STIF
-r36997,34,Bus 34 : Les Noues RER (Circulaire),Roissy Ouest,Keolis Roissy Pays de France Ouest,#81C391,bus,C02164
-r107352,33,Bus 33 : Les Noues RER (Circulaire),Roissy Ouest,Keolis Roissy Pays de France Ouest,#4F91CD,bus,C00211
-r107354,11,Bus 11 : Victor Basch (Goussainville) ↔ Marché de Saint-Denis,Roissy Ouest,Keolis Roissy Pays de France Ouest,#B456A1,bus,C00191
-r107356,32,Bus 32 : Victor Basch (Goussainville) ↔ Zone aéroportuaire de Roissy,Roissy Ouest,Keolis Roissy Pays de France Ouest,#00814F,bus,C00209
+r36997,1634,Bus 1634 : Les Noues RER (Circulaire),Roissy Ouest,Keolis Roissy Pays de France Ouest,#82dc73,bus,C02164
+r107352,1633,Bus 1633 : Les Noues RER (Circulaire),Roissy Ouest,Keolis Roissy Pays de France Ouest,#3c91dc,bus,C00211
+r107354,1611,Bus 1611 : Victor Basch (Goussainville) ↔ Marché de Saint-Denis,Roissy Ouest,Keolis Roissy Pays de France Ouest,#a0006e,bus,C00191
+r107356,1632,Bus 1632 : Victor Basch (Goussainville) ↔ Zone aéroportuaire de Roissy,Roissy Ouest,Keolis Roissy Pays de France Ouest,#00643c,bus,C00209
 r122886,C,Transilien Ligne RER C,RER,SNCF Voyageurs,#ffcd2c,train,C01727
 r215565,U,Transilien U,Transilien,SNCF Voyageurs,#B90845,train,C01741
 r225665,170,Bus 170 : Saint-Denis RER ↔ Porte des Lilas,Plaine Saint-Denis,RATP Cap Plaine Saint-Denis,#87d3df,bus,C01191
@@ -168,11 +168,11 @@ r2390087,4610,Bus 4610 : Gare de Gif ↔ (Saclay ou Villiers ↔ Buc),Paris-Sacl
 r2415100,4601,Bus 4601 : Gare d’Igny ↔ Gare d’Orsay-Ville,Paris-Saclay,RATP Cap Saclay,#cf2939,bus,C00074
 r2440114,4614,Bus 4614 : Gare de Massy-Palaiseau ↔ Polytechnique Vauve,Paris-Saclay,RATP Cap Saclay,#54aee3,bus,C00075
 r2454326,4626,Bus 4626 : Campus d’Orsay - Jean Monnet ↔ Gare d’Orsay Ville RER,Paris-Saclay,RATP Cap Saclay,#8a5d99,bus,C02316
-r2531075,93,Bus 93 : Bobigny – Pablo Picasso ↔ Parinor ↔ Aéroport CDG – Roissypole,Roissy Ouest,Keolis Roissy Pays de France Ouest,#a3653d,bus,C00223
+r2531075,9301,Bus 9301 : Bobigny – Pablo Picasso ↔ Parinor ↔ Aéroport CDG – Roissypole,Roissy Ouest,Keolis Roissy Pays de France Ouest,#3c91dc,bus,C00223
 r2531082,2123,Bus 2123 : Roissypole ↔ Villeparisis - Gymnase Aubertin,Roissy Est,Keolis Roissy Pays de France Est,#E3051C,bus,C00204
-r2531207,Filéo VLB,Bus Filéo Viliers-le-Bel : Roissypole ↔ Villiers-le-Bel,Roissy Ouest,Keolis Roissy Pays de France Ouest,#f69fb3,bus,C01433
-r2531208,Othis,Bus Filéo Othis : Roissypole ↔ Othis,Roissy Ouest,Keolis Roissy Pays de France Ouest,,bus,C01429
-r2531226,Roissy Sud,Bus Filéo Roissy Sud : Roissypole ↔ Villeparisis,Roissy Ouest,Keolis Roissy Pays de France Ouest,#4890cd,bus,C02060
+r2531207,TàD,Bus TàD Roissy Villiers-le-Bel : Roissypole ↔ Villiers-le-Bel,Roissy Ouest,Keolis Roissy Pays de France Ouest,#ffbe00,bus,C01433
+r2531208,TàD,Bus TàD Roissy Othis : Roissypole ↔ Othis,Roissy Ouest,Keolis Roissy Pays de France Ouest,#ffbe00,bus,C01429
+r2531226,TàD,Bus TàD Roissy Sud : Roissypole ↔ Villeparisis,Roissy Ouest,Keolis Roissy Pays de France Ouest,#ffbe00,bus,C02060
 r2532567,190,Bus 190 : Église de Meudon-la-Forêt ↔ Mairie d'Issy-Métro,Croix du Sud,ATM Croix du Sud,#8d6539,bus,C01211
 r2532600,290,Bus 290 : Le Plessis-Robinson – La Boursidière ↔ Issy - Val de Seine RER,Croix du Sud,ATM Croix du Sud,#C9A3CD,bus,C01265
 r2554103,7bis,Ligne 7 bis : Louis Blanc ↔ Pré Saint-Gervais,Métro de Paris,RATP,#82dc73,subway,C01387
@@ -200,13 +200,13 @@ r3079254,203,Bus 203 : Neuilly-Plaisance RER ↔ Neuilly-sur-Marne – Île-de-F
 r3081886,703,Bus 703 : Gare de Chelles - Gournay ↔ Gare de Villeparisis - Mitry-le-Neuf,Marne et Brie,Keolis Grand Paris Vallée de la Marne,#a0006e,bus,C02129
 r3134153,221,Bus 221 : Bagnolet - Gallieni ↔ Gagny - Pointe de Gournay,Bord de Marne,RATP Cap Boucles de Marne,#f49eb2,bus,C01233
 r3186411,4615,Bus 4615 : Gare de Massy-Palaiseau ↔ Vélizy-Villacoublay,Paris-Saclay,RATP Cap Saclay,#253b82,bus,C02155
-r3253655,9502,Bus 9502 : Roissypole RER ↔ Montmorency,Roissy Ouest,Keolis Roissy Pays de France Ouest,#006db8,bus,C00265
-r3253657,11.5,Bus 11.5 : Le Moulin / Avenue Bocquet ↔ Collège Philippe Auguste,Roissy Ouest,Keolis Roissy Pays de France Ouest,#CEACD2,bus,C02165
+r3253655,1602,Bus 1602 : Roissypole RER ↔ Montmorency,Roissy Ouest,Keolis Roissy Pays de France Ouest,#0055c8,bus,C00265
+r3253657,1651,Bus 1651 : Le Moulin / Avenue Bocquet ↔ Collège Philippe Auguste,Roissy Ouest,Keolis Roissy Pays de France Ouest,#d282be,bus,C02165
 r3253980,9518,Bus 9518 : Cergy-Pontoise Gare ↔ Roissypole,Haut Val d'Oise,Keolis Nord Val d’Oise,#5191cd,bus,C01472
-r3256022,37,Bus 37 : Villiers-le-Bel RER - Rond-Point de Bonneuil,Roissy Ouest,Keolis Roissy Pays de France Ouest,green,bus,C00617
-r3256314,22,Bus 22 : Villiers-le-Bel RER ↔ Roissypole,Roissy Ouest,Keolis Roissy Pays de France Ouest,yellow,bus,C00609
-r3256316,23,Bus 23 : Gare de Villiers-le-Bel ↔ Gare d'Aulnay-sous-Bois,Roissy Ouest,Keolis Roissy Pays de France Ouest,red,bus,C00610
-r3286442,4217,Bus 4217 : Évry - Bras-de-Fer (circulaire),Évry Centre Essonne,Keolis TISSE,#00A092,bus,C01623
+r3256022,1637,Bus 1637 : Villiers-le-Bel RER - Rond-Point de Bonneuil,Roissy Ouest,Keolis Roissy Pays de France Ouest,#00a092,bus,C00617
+r3256314,1622,Bus 1622 : Villiers-le-Bel RER ↔ Roissypole,Roissy Ouest,Keolis Roissy Pays de France Ouest,#ffbe00,bus,C00609
+r3256316,1623,Bus 1623 : Gare de Villiers-le-Bel ↔ Gare d'Aulnay-sous-Bois,Roissy Ouest,Keolis Roissy Pays de France Ouest,#ff1400,bus,C00610
+r3286442,4217,Bus 4217 : Évry-Courcouronnes - Bras-de-Fer (circulaire),Évry Centre Essonne,Keolis TISSE,#00A092,bus,C01623
 r3307569,241,Bus 241 : Rueil-Malmaison RER ↔ Porte d'Auteuil,La Défense - Saint Cloud,RATP Cap Défense Seine Ouest,#6e5b1e,bus,C01239
 r3315927,423,Bus 423 : Brie-comte-Robert Stade Lucien Destal ↔ Créteil Préfécture,Pays Briard,Keolis Portes et Val de Brie,#f78f4b,bus,C00551
 r3315942,BrieBus,Bus BrieBus : Brie-comte-Robert Galilée ↔ Brie-comte-Robert Galilée,Marne-la-Vallée,Keolis Portes et Val de Brie,#b2ff00,bus,C00549
@@ -374,7 +374,7 @@ r6880695,1111,Bus 1111 : Bray-et-Lû - Place du 19 Mars 1962 ↔ Gare de Mantes-
 r6881771,1130,Bus 1130 : Moussy - Mairie ↔ Ableige - Transformateur ↔ Us -Stade ↔ Vigny - Collège,Vexin,Transdev Vexin,#640082,bus,C00141
 r6883259,4233,Bus 4233 : Étiolles - Bois des Coudraies ↔ Juvisy Gare Routière Seine,Évry Centre Essonne,Keolis TISSE,#6e491e,bus,C00392
 r6883314,Licorne,Bus Licorne : Foyer Jean Rostand (circulaire),Seine Orly,Keolis Grand Paris Seine Orly,#e2007a,bus,C00003
-r6885970,R104,Bus R104 : Sécurité Sociale (Goussainville) ↔ Institut Saint-Dominique (Mortefontaine),Roissy Ouest,Keolis Roissy Pays de France Ouest,#0072BC,bus,C00239
+r6885970,1664,Bus 1664 : Sécurité Sociale (Goussainville) ↔ Institut Saint-Dominique (Mortefontaine),Roissy Ouest,Keolis Roissy Pays de France Ouest,#3c91dc,bus,C00239
 r6886051,7821,Bus 7821 : La Défense - Terminal Jules Verne ↔ Gare des Mureaux,Poissy - Les Mureaux,Keolis Seine et Oise Est,#3C91DC,bus,C00753
 r6886090,2425,Bus 2425 : La Ferté-sous-Jouarre ↔ Coulommiers / Sept-sorts,Brie et Deux Morin,Transdev Brie et Deux Morin,#990000,bus,C01060
 r6886101,5122,Bus 5122 : Gare de La Verrière ↔ Les Côtes,Saint-Quentin-en-Yvelines,Francilité Saint-Quentin-en-Yvelines,#79AC2B,bus,C01526
@@ -394,12 +394,12 @@ r6929704,360,Bus 360 : Hôpital de Garches ↔ La Défense,La Défense - Saint C
 r6940386,4457,Bus 4457 : Dourdan ↔ Étampes,Essonne Sud Ouest,Transdev Sud-Ouest Essonne,#5291CE,bus,C01568
 r6940387,9102,Bus 9102 : Gare de Dourdan ↔ Gare du Guichet,Essonne Sud Ouest,Transdev Sud-Ouest Essonne,#3BB2FF,bus,C01563
 r6940421,9105,Bus 9105 : Gare du Bras de Fer - Évry Génopôle ↔ Gare de Massy-Palaiseau,Paris-Saclay,RATP Cap Saclay,#3bb2ff,bus,C01566
-r6940422,4504,Bus 4504 : Évry ↔ Arpajon ou Briis-sous-Forges,Cœur d'Essonne,Transdev Cœur Essonne,#ff1400,bus,C01565
+r6940422,4504,Bus 4504 : Évry-Courcouronnes ↔ Arpajon ou Briis-sous-Forges,Cœur d'Essonne,Transdev Cœur Essonne,#ff1400,bus,C01565
 r6949602,4153,Bus 4153 : Collège Pompidou ↔ Plaine Haute (Crosne),Val d'Yerres Val de Seine,Keolis Val d'Yerres Val de Seine,#ff82b4,bus,C00601
 r6949654,N135,Noctilien N135 : Gare de Boissy-Saint-Léger ↔ Gare de Corbeil Essonnes,Val d'Yerres Val de Seine,Keolis Val d'Yerres Val de Seine,#008B5A,bus,C01643
 r6950503,N153,Noctilien N153 : Gare Saint-Lazare ↔ Gare de Saint-Germain-en-Laye,Saint Germain Boucles de Seine,Transdev Boucle des Lys,#FF1400,bus,C01422
 r6950504,N151,Noctilien N151 : Gare Saint-Lazare ↔ Gare de Mantes la Jolie,Noctilien,RATP Cap Mantois,#CEC92A,bus,C01635
-r6952110,9501,Bus 9501 : Roissypole (RER) ↔ Gare de Survilliers - Fosses,Roissy Ouest,Keolis Roissy Pays de France Ouest,#4DEDFF,bus,C00264
+r6952110,1601,Bus 1601 : Roissypole (RER) ↔ Gare de Survilliers - Fosses,Roissy Ouest,Keolis Roissy Pays de France Ouest,#3c91dc,bus,C00264
 r6953405,1101,Bus 1101 : Hérouville-en-Vexin - Zone d'Activités ↔ Gare de Cergy-Préfecture,Vexin,Transdev Vexin,#0000ff,bus,C00393
 r6953807,N142,Noctilien N142: Gare de l’Est ↔ Tournan RER,Noctilien,Keolis Portes et Val de Brie,#C04191,bus,C01640
 r6954049,1110,Bus 1110 : Arronville - Lavoir ↔ Cergy Préfecture,Vexin,Transdev Vexin,#b36b24,bus,C01785
@@ -455,8 +455,8 @@ r7011365,6304,Bus 6304 : Gare de Saint-Germain ↔ Gare de Marly-le-Roi,Saint-Ge
 r7073416,9115,Bus 9115 : Paris-Porte d'Orléans ↔ Arpajon-Porte d'Étampes,Cœur d'Essonne,Transdev Cœur Essonne,#3c91dc,bus,C00689
 r7095879,486,Bus 486 : Marché de Juvisy ↔ Porte de l'Essonne (Athis-Mons),Massy-Juvisy,RATP Cap Massy-Juvisy,#008b59,bus,C01821
 r7095936,292,Bus 292 : ZAC Les Gâtines - Capitaine Jean d'Hers (Savigny-sur-Orge) ↔ Porte de l'Essonne (Athis-Mons),Massy-Juvisy,RATP Cap Massy-Juvisy,#f59eb3,bus,C01267
-r7097513,30B,Bus 30B : Circulaire de Goussainville,Roissy Ouest,Keolis Roissy Pays de France Ouest,#97D4E2,bus,C00205
-r7097520,30D,Bus 30D : Circulaire de Goussainville,Roissy Ouest,Keolis Roissy Pays de France Ouest,#9AA223,bus,C00206
+r7097513,1630,Bus 1630 : Circulaire de Goussainville,Roissy Ouest,Keolis Roissy Pays de France Ouest,#82c8e6,bus,C00205
+r7097520,1603,Bus 1603 : Circulaire de Goussainville,Roissy Ouest,Keolis Roissy Pays de France Ouest,#9c9a3e,bus,C00206
 r7097563,1312,Bus 1312 : Chaumontel ↔ Goussainville,Haut Val d'Oise,Keolis Nord Val d’Oise,#8D5E2A,bus,C00194
 r7101486,4214,Bus 4214 : Évry-Courcouronnes Centre ↔ Le Plessis-Pâté,Évry Centre Essonne,Keolis TISSE,#ff82b4,bus,C01627
 r7105179,9103,Bus 9103 : Gare de Dourdan ↔ (Gare d'Orsay Ville) ↔ Gare de Massy-Palaiseau,Essonne Sud Ouest,Transdev Sud-Ouest Essonne,#3BB2FF,bus,C01564
@@ -503,7 +503,7 @@ r7364631,1232,Bus 1232 : Gare de Cergy Préfecture ↔ Saint-Ouen-l'Aumône - Ly
 r7370851,1228,Bus 1228 : Gare de Cergy Préfecture ↔ Saint-Ouen-l'Aumône - Equerre,Cergy-Pontoise Confluence,Francilité Seine et Oise,#82C8E6,bus,C00783
 r7372176,1226,Bus 1226 : Gare de Cergy-Préfecture ↔ Gare de Méry-sur-Oise,Cergy-Pontoise Confluence,Francilité Seine et Oise,#6E491E,bus,C00781
 r7373447,1208,Bus 1208 : Gare de Cergy Préfecture ↔ Gare de Neuville Université,Cergy-Pontoise Confluence,Francilité Seine et Oise,#00A092,bus,C00778
-r7387039,12 ZI,Bus 12 ZI : Gare de Goussainville (circulaire via ZAE Moinon),Roissy Ouest,Keolis Roissy Pays de France Ouest,#5191CD,bus,C02166
+r7387039,1618,Bus 1618 : Gare de Goussainville (circulaire via ZAE Moinon),Roissy Ouest,Keolis Roissy Pays de France Ouest,#3c91dc,bus,C02166
 r7399969,1516,Bus 1516 : Argenteuil Gare ↔ Enghien Gare SNCF,Vallée de Montmorency,Transdev Valmy,#e52529,bus,C01802
 r7413474,4603,Bus 4603 : Centre Commercial Ulis 2 ↔ Gare d'Orsay Ville,Paris-Saclay,RATP Cap Saclay,#50b586,bus,C00068
 r7413493,6140,Bus 6140 : La Cheminée ↔ Pont de Sèvres,Vélizy Vallées,Keolis Vélizy Vallée de la Bièvre,#F69238,bus,C00048
@@ -573,13 +573,13 @@ r7670510,4660,Bus 4660 : Briand (Bures) ↔ Campus ↔ Guyonnerie,Paris-Saclay,R
 r7670803,4612,Bus 4612 : Gare de Courcelles ↔ Centre Commercial Les Ulis 2,Paris-Saclay,RATP Cap Saclay,#ffd300,bus,C00503
 r7673346,4653,Bus 4653 : Gif-sur-Yvette ↔ Lycée Vallée de Chevreuse et Collège J. Adam,Paris-Saclay,RATP Cap Saclay,#78c4ee,bus,C00520
 r7673721,Chavilbus,Chavilbus,Grand Paris Seine Ouest,Origami / Mobicité,,bus,C02304
-r7677999,R114,Bus R114 : Treize Saules (Saint-Witz) ↔ Collège Anne-Marie Javouhey (Senlis),Roissy Ouest,Keolis Roissy Pays de France Ouest,,bus,C01816
-r7678000,R9,Bus R9 : Survilliers Fosses - Gare ↔ Z.I. Parc de Plailly ↔ Vergers (Plailly),Roissy Ouest,Keolis Roissy Pays de France Ouest,#662483,bus,C02604
-r7678060,R1,Bus R1 : Gare de Survilliers Fosses ↔ Gare de Louvres,Roissy Ouest,Keolis Roissy Pays de France Ouest,#00814F,bus,C00228
-r7678061,R3,Bus R3 : Gare de Survilliers – Fosses ↔ Central Space Bâtiment C (ZI Moimont 2),Roissy Ouest,Keolis Roissy Pays de France Ouest,#F4A25F,bus,C00230
-r7678062,R108,Bus R108 : Mairie Annexe (Fosses) ↔ Institut Saint-Dominique (Mortefontaine),Roissy Ouest,Keolis Roissy Pays de France Ouest,#F3A4BA,bus,C00243
-r7678074,R117,Bus R117 : Centre-ville (Survilliers) ↔ Collège de Noailles - Lycée de Nerval (Luzarches),Roissy Ouest,Keolis Roissy Pays de France Ouest,,bus,C00226
-r7678094,Survilliers,Bus Filéo Survilliers : Roissypole ↔ Survilliers,Roissy Ouest,Keolis Roissy Pays de France Ouest,,bus,C01712
+r7677999,1674,Bus 1674 : Treize Saules (Saint-Witz) ↔ Collège Anne-Marie Javouhey (Senlis),Roissy Ouest,Keolis Roissy Pays de France Ouest,#ffbe00,bus,C01816
+r7678000,1619,Bus 1619 : Survilliers Fosses - Gare ↔ Z.I. Parc de Plailly ↔ Vergers (Plailly),Roissy Ouest,Keolis Roissy Pays de France Ouest,#640082,bus,C02604
+r7678060,1610,Bus 1610 : Gare de Survilliers Fosses ↔ Gare de Louvres,Roissy Ouest,Keolis Roissy Pays de France Ouest,#00643c,bus,C00228
+r7678061,1613,Bus 1613 : Gare de Survilliers – Fosses ↔ Central Space Bâtiment C (ZI Moimont 2),Roissy Ouest,Keolis Roissy Pays de France Ouest,#dc9600,bus,C00230
+r7678062,1668,Bus 1668 : Mairie Annexe (Fosses) ↔ Institut Saint-Dominique (Mortefontaine),Roissy Ouest,Keolis Roissy Pays de France Ouest,#ff82b4,bus,C00243
+r7678074,1677,Bus 1677 : Centre-ville (Survilliers) ↔ Collège de Noailles - Lycée de Nerval (Luzarches),Roissy Ouest,Keolis Roissy Pays de France Ouest,#ff82b4,bus,C00226
+r7678094,TàD,Bus TàD Roissy Fosses : Roissypole ↔ Survilliers,Roissy Ouest,Keolis Roissy Pays de France Ouest,#ffbe00,bus,C01712
 r7699451,713,Bus 713 : Cité Scolaire (Chelles) ↔ Gare de Mitry Claye,Marne et Brie,Keolis Grand Paris Vallée de la Marne,#a0006e,bus,C02130
 r7699452,TàD Bassin Chellois,Bus TàD : Bassin Chellois,Marne et Brie,Keolis Grand Paris Vallée de la Marne,#ffbe00,bus,C01890
 r7704305,4611,Bus 4611 : Gare de Gif-sur-Yvette (circulaire via Chevry),Paris-Saclay,RATP Cap Saclay,#009a7a,bus,C00495
@@ -590,12 +590,12 @@ r7728377,704,Bus 704 : Gare de Chelles - Gournay ↔ Mairie de Claye-Souilly,Mar
 r7728420,2244,Bus 2244 (Circulaire) : Gare de Bussy-Saint-Georges,Marne-la-Vallée,Transdev Marne-la-Vallée,#9F9825,bus,C00636
 r7733214,3,Ligne 3 : Pont de Levallois ↔ Gallieni,Métro de Paris,RATP,#6e6e00,subway,C01373
 r7734583,J,Navette J : Rond-Point du Pileu ↔ Périgord,Paris-Saclay Mobilités,Autocars Dominique,yellow,bus,C01837
-r7741077,G'bus,Bus G'bus : Goussainville RER (Circulaire),Roissy Ouest,Keolis Roissy Pays de France Ouest,#F4A8BC,bus,C00224
+r7741077,1639,Bus 1639 : Goussainville RER (Circulaire),Roissy Ouest,Keolis Roissy Pays de France Ouest,#ff82b4,bus,C00224
 r7743343,6134,Bus 6134 : Gare de Chaville Rive Droite ↔ Vélizy-Villacoublay Centre Commercial,Vélizy Vallées,Keolis Vélizy Vallée de la Bièvre,#8d5e24,bus,C01805
 r7743345,5123,Bus 5123 : Gare de La Verrière (circulaire via Maurepas),Saint-Quentin-en-Yvelines,Francilité Saint-Quentin-en-Yvelines,#9B9842,bus,C02216
 r7752065,45,Bus 45 : Blanc-Mesnil ↔ Vert Galant,Terres d'Envol,Transdev Nord Seine-Saint-Denis,#F3A4BA,bus,C00216
 r7753791,192,Bus 192 : Marché International de Rungis ↔ Robinson RER,Pompadour,RATP Cap Pompadour,#77C694,bus,C01213
-r7757955,25,Bus 25 : Villiers-le-Bel RER ↔ Zone Industrielle,Roissy Ouest,Keolis Roissy Pays de France Ouest,#B90745,bus,C00611
+r7757955,1625,Bus 1625 : Villiers-le-Bel RER ↔ Zone Industrielle,Roissy Ouest,Keolis Roissy Pays de France Ouest,#a50034,bus,C00611
 r7779421,330,Bus 330 : Fort d’Aubervilliers ↔ Raymond Queneau - Anatole France (Bobigny),RATP,Origami / Paris Seine Mobilités,,bus,C01289
 r7781376,254,Bus 254 : Gare d'Enghien-Les-Bains ↔ Gare de Saint-Denis RER,Plaine Saint-Denis,RATP Cap Plaine Saint-Denis,#CEC92A,bus,C01808
 r7783242,340,Bus 340 : Clichy - Berges de Seine ↔ Asnières-Gennevilliers-Les Courtilles ↔ Gare d'Argenteuil,Boucles Nord de Seine,RATP Cap Boucle Nord de Seine,#F59EB3,bus,C01292
@@ -736,7 +736,7 @@ r7921051,4303,Bus 4303 : Gare de Ballancourt (circulaire),Essonne Sud Est,Keolis
 r7921052,513,Bus 513 : La Traverse Bièvre Montsouris,RATP,RATP,#a0006e,bus,C01330
 r7921053,239,Bus 239 : Saint-Denis Résiatance ↔ Rosa Parks–Curial,Plaine Saint-Denis,RATP Cap Plaine Saint-Denis,#9A006F,bus,C01238
 r7921054,304,Bus 304 : Nanterre–Place de la Boule ↔ Les Courtilles,La Défense - Saint Cloud,RATP Cap Défense Seine Ouest,#CACE2C,bus,C01275
-r7921056,R8,Bus R8 : Mairie de Goussainville ↔ Regnault,Roissy Ouest,Keolis Roissy Pays de France Ouest,#F386A7,bus,C00207
+r7921056,1638,Bus 1638 : Mairie de Goussainville ↔ Regnault,Roissy Ouest,Keolis Roissy Pays de France Ouest,#ff82b4,bus,C00207
 r7921433,5151,Bus 5151 : Saint-Quentin-en-Yvelines Gare RER ↔ Eugène Viollet-le-Duc,Saint-Quentin-en-Yvelines,Francilité Saint-Quentin-en-Yvelines,#79AC2B,bus,C01542
 r7922077,1231,Bus 1231 : Gare de Conflans-Sainte-Honorine ↔ Herblay - Buttes Blanches,Cergy-Pontoise Confluence,Francilité Seine et Oise,#6E6E00,bus,C01477
 r7980611,4554,Bus 4554 : Gare de Marolles (circulaire),Cœur d'Essonne,Transdev Cœur Essonne,#0055c8,bus,C01763
@@ -749,7 +749,7 @@ r7996352,ClamiBus,Bus ClamiBus : Maison de Quartier André Charré ↔ Gare de C
 r7998640,2476,Bus 2476 : Gare de Villiers - Montbarbin ↔ École Sainte-Thérèse (Couilly-Pont-aux-Dames),Brie et Deux Morin,Transdev Brie et Deux Morin,#ffbe00,bus,C00952
 r7998698,4456,Bus 4456 : Dourdan ↔ Roinville,Essonne Sud Ouest,Transdev Sud-Ouest Essonne,#d282be,bus,C02296
 r7998730,1133,Bus 1133 : Marines - Collège les Hautiers ↔ Bréançon - Église ↔ Berville - Lavoir,Vexin,Transdev Vexin,#FF3399,bus,C01788
-r7999069,R106,Bus R106 : Institut Saint-Dominique ↔ Calvaire,Roissy Ouest,Keolis Roissy Pays de France Ouest,#943281,bus,C00241
+r7999069,1666,Bus 1666 : Institut Saint-Dominique ↔ Calvaire,Roissy Ouest,Keolis Roissy Pays de France Ouest,#640082,bus,C00241
 r7999311,3530,Bus 3530 : Stade de la Faisanderie ↔ Gare Carnot,Vallée du Loing - Nemours,Transdev Vallée du Loing,#FF1400,bus,C00820
 r7999314,3531,Bus 3531 : Jacques Durand ↔ Cité Scolaire,Vallée du Loing - Nemours,Transdev Vallée du Loing,#FF82B4,bus,C01958
 r7999343,3532,Bus 3532 : Gratereau ↔ Cité Scolaire,Vallée du Loing - Nemours,Transdev Vallée du Loing,#640082,bus,C01959
@@ -773,7 +773,7 @@ r8076962,1233,Bus 1233 : Gare de Neuville Université ↔ Gare de Pontoise - Pla
 r8077088,1225,Bus 1225 : Gare de Saint-Ouen-L’Aumône Liesse ↔ Gare de Conflans-Sainte-Honorine,Cergy-Pontoise Confluence,Francilité Seine et Oise,#D282BE,bus,C02086
 r8086899,1432,Bus 1432 : Gare de Cormeilles en Parisis (circulaire),Val Parisis,Francilité Val Parisis,#f78f4b,bus,C02049
 r8088174,6204,Bus 6204 : Pershing ↔ Gare des Versailles Chantiers,Grand Versailles,Transdev Versailles,,bus,C00695
-r8106274,20,Bus 20 : Villiers-le-Bel RER ↔ Parc des Expositions,Roissy Ouest,Keolis Roissy Pays de France Ouest,#F68B1F,bus,C01867
+r8106274,1620,Bus 1620 : Villiers-le-Bel RER ↔ Parc des Expositions,Roissy Ouest,Keolis Roissy Pays de France Ouest,#ff5a00,bus,C01867
 r8109456,6308,Bus 6308 : Gare de Poissy ↔ Chambourcy - Châtaigneraie ↔ Gare de Poissy,Saint-Germain Boucles de Seine,Transdev Île-de-France Boucle des Lys,#ff82b4,bus,C00144
 r8112663,4417,Bus 4417 : Estouches ↔ Étampes HLM Bas,Essonne Sud Ouest,Transdev Sud-Ouest Essonne,#83C491,bus,C02067
 r8112875,4418,Bus 4418 : Estouches ↔ Etampes HLM Bas,Essonne Sud Ouest,Transdev Sud-Ouest Essonne,#E0B03B,bus,C02068
@@ -821,7 +821,7 @@ r8268979,4521,Bus 4521 : Gare de Savigny-sur-Orge (circulaire via Mairie),Cœur 
 r8271443,6123,Bus 6123 : Europe ↔ Vélizy 2,Vélizy Vallées,Keolis Vélizy Vallée de la Bièvre,#E78DBB,bus,C00050
 r8272658,5141,Bus 5141 : Gare de Versailles Chantiers ↔ Chamfleury,Saint-Quentin-en-Yvelines,Francilité Saint-Quentin-en-Yvelines,#09a88e,bus,C00544
 r8281027,4221,Bus 4221 : ZI Croix Blanche ↔ Tuileries,Évry Centre Essonne,Keolis TISSE,#a0981a,bus,C01615
-r8281810,4245,Bus 4245 : Evry-Courcouronnes Centre ↔ Gare de Corbeil-Essonnes - Henri Barbusse,Évry Centre Essonne,Keolis TISSE,#6e491e,bus,C01628
+r8281810,4245,Bus 4245 : Évry-Courcouronnes Centre ↔ Gare de Corbeil-Essonnes - Henri Barbusse,Évry Centre Essonne,Keolis TISSE,#6e491e,bus,C01628
 r8285312,707,Bus 707 : Gare de Chelles - Gournay ↔ Courtry - Désiré Lefèvre,Marne et Brie,Keolis Grand Paris Vallée de la Marne,#d2d200,bus,C02136
 r8285313,706,Bus 706 : Gare de Chelles - Gournay ↔ Gare de Vaires - Torcy ↔ Collège Goscinny,Marne et Brie,Keolis Grand Paris Vallée de la Marne,#ff1400,bus,C02131
 r8287382,717,Bus 717 : Cité Scolaire (Chelles) ↔ Courtry,Marne et Brie,Keolis Grand Paris Vallée de la Marne,#d2d200,bus,C02135
@@ -836,7 +836,7 @@ r8299933,4203,Bus 4203 : Exona ↔ Terminal David Douillet,Évry Centre Essonne,
 r8310967,4243,Bus 4243 : Gare Moulin Galant ↔ Gare de Corbeil-Essonnes Zola,Évry Centre Essonne,Keolis TISSE,#00643c,bus,C00388
 r8312254,5403,Bus 5403 : Circulaire Mantes-la-Ville ↔ Mantes-la-Jolie ↔ Buchelay ↔ Mantes-la-Ville,Mantois,RATP Cap Mantois,#8ad3de,bus,C01601
 r8312545,6240,Bus 6240 : Gare de Fontenay le Fleury ↔ Versailles Gare des Chantiers,Grand Versailles,Transdev Versailles,#FF82B4,bus,C01868
-r8312707,27,Bus 27 : Roissypole → Jean Bullant (Villiers-le-Bel),Roissy Ouest,Keolis Roissy Pays de France Ouest,#f69fb3,bus,C02059
+r8312707,1627,Bus 1627 : Roissypole → Jean Bullant (Villiers-le-Bel),Roissy Ouest,Keolis Roissy Pays de France Ouest,#ff82b4,bus,C02059
 r8316261,6434,Bus 6434 : Gare de Houilles Carrières sur Seine ↔ Mayoly (Chatou),Argenteuil - Boucles de Seine,Keolis Argenteuil Boucles de Seine,#a0006e,bus,C02142
 r8316271,6435,Bus 6435 : Berges de Montesson ↔ Gare de Houilles-Carrières sur Seine,Argenteuil - Boucles de Seine,Keolis Argenteuil Boucles de Seine,#ff82b4,bus,C02152
 r8322773,2322,Bus 2322 : Meaux ↔ Vincy-Manoeuvre,Meaux et Ourcq,Transdev Marne-et-Ourcq,#d2d200,bus,C00917
@@ -853,20 +853,20 @@ r8369092,4511,Bus 4511 : Gare de Sainte-Geneviève des Bois (circulaire),Cœur d
 r8369253,5145,Bus 5145 : Saint-Rémy Gare ↔ Magny ↔ Montigny Saint-Quentin Gare,Saint-Quentin-en-Yvelines,Francilité Saint-Quentin-en-Yvelines,#d2d200,bus,C01538
 r8369803,4401,Bus 4401 : Étampes - Hôpital ou Gaston Beau (circulaire),Essonne Sud Ouest,Transdev Sud-Ouest Essonne,#E3B32A,bus,C00975
 r8370158,5106,Bus 5106 : Z.I. Les Gâtines ↔ Trappes Gare,Saint-Quentin-en-Yvelines,Francilité Saint-Quentin-en-Yvelines,#c04191,bus,C01531
-r8370222,24,Bus 24 : Gare de Villiers-le-Bel Gonesse Arnouville (circulaire),Roissy Ouest,Keolis Roissy Pays de France Ouest,#0064B0,bus,C00612
+r8370222,1624,Bus 1624 : Gare de Villiers-le-Bel Gonesse Arnouville (circulaire),Roissy Ouest,Keolis Roissy Pays de France Ouest,#0055c8,bus,C00612
 r8370396,3101,Bus 3101 : Ambroise Paré ↔ Combs-la-Ville - Quincy Gare RER,Pays Briard,Keolis Portes et Val de Brie,#78c696,bus,C00546
 r8371071,2120,Bus 2120 : Cimetière ↔ Gare RER de Mitry - Claye,Roissy Est,Keolis Roissy Pays de France Est,#006DB8,bus,C00659
 r8371170,402,Bus 402 : ZAC du Moulin ↔ Antony RER,Bièvre,RATP Cap Bièvre,#f67f39,bus,C00340
 r8373352,6422,Bus 6422 : Le Moulin ↔ Gare d'Argenteuil,Argenteuil - Boucles de Seine,Keolis Argenteuil Boucles de Seine,#ff5a00,bus,C00294
 r8374540,4213,Bus 4213 : Bondoufle (Imprimerie Nationale) ↔ Ris-Orangis (Centre Commercial Aunettes),Évry Centre Essonne,Keolis TISSE,#ffbe00,bus,C01626
-r8377444,R6,Bus R6 : Louvres RER D (circulaire),Roissy Ouest,Keolis Roissy Pays de France Ouest,#97D4E2,bus,C00233
+r8377444,1616,Bus 1616 : Louvres RER D (circulaire),Roissy Ouest,Keolis Roissy Pays de France Ouest,#82c8e6,bus,C00233
 r8378094,3216,Bus 3216 - Nangibus : Circulaire Gare de Nangis SNCF,Provinois - Brie et Seine,Francilité Grand Provinois,,bus,C02294
-r8379297,Titus1,Bus Titus1 : Gare RER Rosny-Bétremieux (circulaire) via La Boissière - Hôpital,Titus,Origami / Mobicité,#F04D30,bus,C01826
-r8379422,Titus2,Bus Titus2 : Gare RER Rosny-Bétremieux (circulaire) via Plateau d'Avron,Titus,Origami / Mobicité,#0F793A,bus,C01827
+r8379297,Titus1,Bus Titus1 : Gare RER Rosny-Bétremieux (circulaire) via La Boissière - Hôpital,Titus,Origami / Mobicité,#ff0000,bus,C01826
+r8379422,Titus2,Bus Titus2 : Gare RER Rosny-Bétremieux (circulaire) via Plateau d'Avron,Titus,Origami / Mobicité,#ffbf00,bus,C01827
 r8379777,1429,Bus 1429 : Gare de Franconville (circulaire),Val Parisis,Francilité Val Parisis,#bb4b9b,bus,C02006
 r8383356,5143,Bus 5143 : Mérantais (Magny-les-Hameaux) ↔ Institut Franco-Japonais (Montigny-le-Bretonneux),Saint-Quentin-en-Yvelines,Francilité Saint-Quentin-en-Yvelines,#81c391,bus,C01532
 r8383446,5150,Bus 5150 : Buc Tabuteau↔ Saint-Quentin Gare,Saint-Quentin-en-Yvelines,Francilité Saint-Quentin-en-Yvelines,#81c391,bus,C01541
-r8388057,31,Bus 31 : Parc Commercial Pont de Pierre ↔ Garges/Sarcelles RER D,Roissy Ouest,Keolis Roissy Pays de France Ouest,#E3051B,bus,C00208
+r8388057,1631,Bus 1631 : Parc Commercial Pont de Pierre ↔ Garges/Sarcelles RER D,Roissy Ouest,Keolis Roissy Pays de France Ouest,#ff1400,bus,C00208
 r8388059,39,Bus 39 : Vert Galant RER B ↔ Aéroport CDG1 RER B,Terres d'Envol,Transdev Nord Seine-Saint-Denis,,bus,C00213
 r8388060,1513,Bus 1513 : La Chênée (Montmorency) ↔ Gare d'Enghien-les-Bains,Vallée de Montmorency,Transdev Valmy,#F28E43,bus,C00302
 r8392645,T'bus 1,Bus T'bus 1 : Roissypole ↔ Marronniers (Tremblay-en-France),Terres d'Envol,Transdev Nord Seine-Saint-Denis,#E30017,bus,C02265
@@ -877,7 +877,7 @@ r8393784,4661,Bus 4661 : Conservatoire (Orsay) ↔ Collège Île de France,Paris
 r8393785,4662,Bus 4662 : Cimetière (Orsay) ↔ Villebon ↔ Lycée C. Claudel (Palaiseau),Paris-Saclay,RATP Cap Saclay,#54aee3,bus,C02382
 r8393786,4663,Bus 4663 : Grand Dôme ↔ Collège J. Verne,Paris-Saclay,RATP Cap Saclay,#b6d061,bus,C01653
 r8393787,4664,Bus 4664 : Millet (Villebon) ↔ Collège J. Verne,Paris-Saclay,RATP Cap Saclay,#d073a1,bus,C01654
-r8398489,Goussainville,Bus Filéo Goussainville : Roissypole ↔ Les Côteaux (Goussainville),Roissy Ouest,Keolis Roissy Pays de France Ouest,#cec92b,bus,C01432
+r8398489,TàD,Bus TàD Roissy Goussainville : Roissypole ↔ Les Côteaux (Goussainville),Roissy Ouest,Keolis Roissy Pays de France Ouest,#ffbe00,bus,C01432
 r8400207,6251,Bus 6251 : Hôpital Mignot ↔ Saint-Quentin-en-Yvelines - Gare P. Delouvrier,Grand Versailles,Transdev Versailles,#3C91E6,bus,C01873
 r8400479,5407,Bus 5407 : Buchelay - Béarn ↔ Buchelay - Béarn,Mantois,RATP Cap Mantois,#E0AF47,bus,C01606
 r8401666,7818,Bus 7818 : Gare Routière de Mantes-la-Ville ↔ Saint-Quentin-en-Yvelines - Gare Routière Delouvrier,Île-de-France Ouest,Francilité Express Ouest,#3c91dc,bus,C00426
@@ -885,10 +885,10 @@ r8402861,6211,Bus 6211 : Bois d'Arcy - Méliès - Croix Bonnet ↔ Gare de Versa
 r8403373,2319,Bus 2319 : Gare de Meaux ↔ Gare de Val d'Europe,Meaux et Ourcq,Transdev Marne-et-Ourcq,#f79036,bus,C00914
 r8404004,412,Bus 412 : La Croix de Berny RER ↔ Lycée Polyvalent,Bièvre,RATP Cap Bièvre,#e30017,bus,C00342
 r8404223,6243,Bus 6243 : Gare de Fontenay le Fleury (circulaire),Grand Versailles,Transdev Versailles,,bus,C01872
-r8404345,9101,Bus 9101 : Gare Brunoy ↔ Gare Routière d'Evry Courcouronnes,Val d'Yerres Val de Seine,Keolis Val d'Yerres Val de Seine,#3bb2ff,bus,C01562
+r8404345,9101,Bus 9101 : Gare Brunoy ↔ Gare Routière d'Évry-Courcouronnes,Val d'Yerres Val de Seine,Keolis Val d'Yerres Val de Seine,#3bb2ff,bus,C01562
 r8404789,2118,Bus 2118 : Marché (Villeparisis) ↔ Collège Gérard Philipe,Roissy Est,Keolis Roissy Pays de France Est,#F78F4B,bus,C00200
-r8404844,Saint-Pathus,Bus Filéo Saint-Pathus : Roissypole ↔ Saint-Pathus,Roissy Ouest,Keolis Roissy Pays de France Ouest,,bus,C01823
-r8405392,Sarcelles,Bus Filéo Sarcelles : Roissypole ↔ Sarcelles,Roissy Ouest,Keolis Roissy Pays de France Ouest,,bus,C01431
+r8404844,TàD,Bus TàD Roissy Saint-Pathus : Roissypole ↔ Saint-Pathus,Roissy Ouest,Keolis Roissy Pays de France Ouest,#ffbe00,bus,C01823
+r8405392,TàD,Bus TàD Roissy Sarcelles : Roissypole ↔ Sarcelles,Roissy Ouest,Keolis Roissy Pays de France Ouest,#ffbe00,bus,C01431
 r8405850,5408,Bus 5408 : Mantes-la-Jolie - Henri Clérisse ↔ Gare de Mantes-la-Jolie,Mantois,RATP Cap Mantois,#8d653d,bus,C01612
 r8406206,6230,Bus 6230 : La Celle Saint-Cloud Gare ↔ Puits d'Angle,Grand Versailles,Transdev Versailles,#00a092,bus,C01772
 r8407058,6145,Bus 6145 : Pont de Sèvres ↔ Mairie de Vélizy,Vélizy Vallées,Keolis Vélizy Vallée de la Bièvre,#AF00F5,bus,C00051
@@ -919,8 +919,8 @@ r8448304,F,Navette F : Champlan ↔ C.Cial Massy | C.Cial Villebon 2,Paris-Sacla
 r8448533,Baladobus,Bus Baladobus : Gare de Saint-Rémy-Lès-Chevreuse (circulaire),SAVAC,SAVAC,#A4BE28,bus,C02123
 r8449168,6429,Bus 6429 : Gare de Sartrouville ↔ Gare du Vésinet Le Pecq,Argenteuil - Boucles de Seine,Keolis Argenteuil Boucles de Seine,#640082,bus,C00337
 r8449420,619,Bus 619 : Gare du Vert Galant ↔ Petit Tremblay,Terres d'Envol,Transdev Nord Seine-Saint-Denis,#83C491,bus,C01587
-r8450067,35,Bus 35 : Saint-Blin - Lycée René Cassin ↔ Gare de Villiers-le-Bel - Gonesse - Arnouville,Roissy Ouest,Keolis Roissy Pays de France Ouest,#33F2FF,bus,C00615
-r8450068,36,Bus 36 : Gare de Villiers-le-Bel Gonesse Arnouville ↔ Rond-Point de Bonneuil,Roissy Ouest,Keolis Roissy Pays de France Ouest,#E600FF,bus,C00616
+r8450067,1655,Bus 1655 : Saint-Blin - Lycée René Cassin ↔ Gare de Villiers-le-Bel - Gonesse - Arnouville,Roissy Ouest,Keolis Roissy Pays de France Ouest,#82c8e6,bus,C00615
+r8450068,1636,Bus 1636 : Gare de Villiers-le-Bel Gonesse Arnouville ↔ Rond-Point de Bonneuil,Roissy Ouest,Keolis Roissy Pays de France Ouest,#640082,bus,C00616
 r8450383,1302,Bus 1302 : Gare de Persan - Beaumont ↔ Gare de Nointel Mours,Haut Val d'Oise,Keolis Nord Val d’Oise,#B90745,bus,C01660
 r8450384,1301,Bus 1301 : Bruyères-sur-Oise - Rue de Boran ↔ Persan - ZAE Chemin Vert,Haut Val d'Oise,Keolis Nord Val d’Oise,#F3A4BA,bus,C01659
 r8450385,1305,Bus 1305 : Bruyères-sur-Oise - Rue de Boran ↔ Beaumont-sur-Oise - Mairie,Haut Val d'Oise,Keolis Nord Val d’Oise,#97D4E2,bus,C01735
@@ -952,7 +952,7 @@ r8474977,3203,Bus 3203 : Longueville Gare ↔ Noyen-sur-Seine Place du Calvaire,
 r8479479,3454,Bus 3454 : Gare de Fontainebleau - Avon ↔ Gare de Malesherbes,Fontainebleau - Moret,Transdev Pays de Fontainebleau,#0A0082,bus,C01012
 r8493726,100,Bus 100 Persan : Roissypole (Aéroport CDG Terminal 3) ↔ Gare de Persan - Beaumont,Haut Val d'Oise,Keolis Nord Val d’Oise,#5191cd,bus,C01675
 r8493727,7720,Bus 7720 : Roissypole (Aéroport CDG Terminal 3) ↔ Gare de Meaux,Meaux et Ourcq,Transdev Marne-et-Ourcq,#3bb2ff,bus,C00661
-r8493728,R4,Bus R4 : Roissypole ↔ Louvres Gare,Roissy Ouest,Keolis Roissy Pays de France Ouest,#09A88E,bus,C00231
+r8493728,1614,Bus 1614 : Roissypole ↔ Louvres Gare,Roissy Ouest,Keolis Roissy Pays de France Ouest,#00a092,bus,C00231
 r8493815,7708,Bus 7708 : Gare de La Ferté-sous-Jouarre ↔ Roissypole Aéroport CDG T3,Brie et Deux Morin,Transdev Brie et Deux Morin,#3BB2FF,bus,C00960
 r8507551,1113,Bus 1113 : Butry-sur-Oise - Gare de Valmondois ↔ Butry-sur-Oise - Gare de Valmondois,Vexin,Transdev Vexin,#80331b,bus,C00399
 r8507557,1112,Bus 1112 : Berville - Lavoir ↔ Gare de Cergy Préfecture,Vexin,Transdev Vexin,#ff80ff,bus,C01786
@@ -1004,7 +1004,7 @@ r9172126,3,Bus 3 : Antony Gilles de Gennes ↔ Les Baconnets RER,Vallée Sud Gra
 r9172833,7807,Bus 7807 : Gare Routière Vélizy 2 ↔ Gare de Saint-Quentin-en-Yvelines,Île-de-France Ouest,Francilité Express Ouest,#3bb2ff,bus,C00532
 r9172915,429,Bus 429 : Créteil L'Échat ↔ Émile Combes Descartes ↔ Lycée Guillaume Budée,Marne et Seine,Transdev Côteaux de la Marne,#ff82b4,bus,C00594
 r9173025,430,Bus 430 : Créteil L'Échat ↔ Gare de Boissy-Saint-Léger,Marne et Seine,Transdev Côteaux de la Marne,#a50034,bus,C01751
-r9173650,7715,Bus 7715 : Lieusaint Moissy Gare RER ↔ Evry Courcourronnes Gare RER,Sénart,Transdev Sénart,#3c91dc,bus,C00836
+r9173650,7715,Bus 7715 : Lieusaint Moissy Gare RER ↔ Évry-Courcouronnes Gare RER,Sénart,Transdev Sénart,#3c91dc,bus,C00836
 r9173954,5401,Bus 5401 : Gare de Rosny-sur-Seine ↔ Gare de Mantes-la-Jolie ↔ Limay - Fosses Rouges,Mantois,RATP Cap Mantois,#eb2132,bus,C01949
 r9175639,6131,Bus 6131 : Robert Wagner (circulaire),Vélizy Vallées,Keolis Vélizy Vallée de la Bièvre,#26C9FF,bus,C01687
 r9175920,6142,Bus 6142 : Pont de Sèvres ↔ L'Onde Maison des Arts,Vélizy Vallées,Keolis Vélizy Vallée de la Bièvre,#00FF00,bus,C00049
@@ -1015,7 +1015,7 @@ r9181182,409,Bus 409 : Antony RER ↔ Hôpital Jacques Cartier,Bièvre,RATP Cap 
 r9181427,1410,Bus 1410 : Gare de Cergy-Préfecture ↔ Gare de Montigny - Beauchamp,Val Parisis,Francilité Val Parisis,#9b983b,bus,C02842
 r9181579,4130,Bus 4130 : Boussy Gare (circulaire),Val d'Yerres Val de Seine,Keolis Val d'Yerres Val de Seine,#82c8e6,bus,C00598
 r9182058,4542,Bus 4542 : Gare de Saint-Michel sur Orge ↔ Gare de Brétigny,Cœur d'Essonne,Transdev Cœur Essonne,#00643c,bus,C00679
-r9182104,4216,Bus 4216: Evry-Courcouronnes Centre ↔ Ferme des Folies,Évry Centre Essonne,Keolis TISSE,#ff82b4,bus,C01672
+r9182104,4216,Bus 4216 : Évry-Courcouronnes Centre ↔ Ferme des Folies,Évry Centre Essonne,Keolis TISSE,#ff82b4,bus,C01672
 r9183484,A01,A01 : Aéroport Paris Beauvais ↔ Paris Porte Maillot,Aérobus Paris-Beauvais,Transports Paris-Beauvais,#CE0033,bus,C02179
 r9183833,4516,Bus 4516 : Gare de Sainte-Geneviève des Bois (circulaire),Cœur d'Essonne,Transdev Cœur Essonne,#ffbe00,bus,C00667
 r9183898,4517,Bus 4517 : Fontaine Mansart ↔ Gare de Sainte-Geneviève des Bois,Cœur d'Essonne,Transdev Cœur Essonne,#00643c,bus,C00668
@@ -1057,9 +1057,9 @@ r9203505,4537,Bus 4537 : Gare de Sainte-Geneviève des Bois ↔ Fontaine Mansart
 r9204349,7806,Bus 7806 : Gare Routière Mantes-la-Ville ↔ Rambouillet Gare Prairie,Centre et Sud Yvelines,Transdev Sud Yvelines,#4d90cd,bus,C00062
 r9206600,7812,Bus 7812 : Gare de Rambouillet [Prairie] ↔ Gare de Saint-Quentin en Yvelines,Centre et Sud Yvelines,Transdev Sud Yvelines,#4d90cd,bus,C01951
 r9206954,2121,Bus 2121 : Marché ↔ Mairie Annexe,Roissy Est,Keolis Roissy Pays de France Est,#662D91,bus,C00202
-r9207015,R5,Bus R5 : Louvres RER D (circulaire),Roissy Ouest,Keolis Roissy Pays de France Ouest,#FECE00,bus,C00232
+r9207015,1615,Bus 1615 : Louvres RER D (circulaire),Roissy Ouest,Keolis Roissy Pays de France Ouest,#ffbe00,bus,C00232
 r9207454,2103,Bus 2103 : Les Frênes ↔ Gare Saint-Mard,Roissy Est,Keolis Roissy Pays de France Est,#87D3DF,bus,C00247
-r9207487,Vitavil,Bus Vitavil : Les Flanades ↔ Espace Angela Davis,Roissy Ouest,Keolis Roissy Pays de France Ouest,,bus,C00261
+r9207487,1621,Bus 1621 : Les Flanades ↔ Espace Angela Davis,Roissy Ouest,Keolis Roissy Pays de France Ouest,#ff5a00,bus,C00261
 r9218053,3145,Bus 3145 : Gare d'Ozoir ↔ Poirier,Pays Briard,Keolis Portes et Val de Brie,#0a8c5a,bus,C00021
 r9219662,6428,Bus 6428 : Gare de Maisons Laffitte (circulaire),Argenteuil - Boucles de Seine,Keolis Argenteuil Boucles de Seine,#82c8e6,bus,C01476
 r9223273,1424,Bus 1424 : Gare d'Ermont-Eaubonne ↔ Les Espérances,Val Parisis,Francilité Val Parisis,#006db8,bus,C00444
@@ -1091,7 +1091,7 @@ r9237642,2406,Bus 2406 : Gare de La Ferté-sous-Jouarre / La Ferté-sous-Jouarre
 r9237674,2310,Bus 2310 : Gare Routière de Meaux (circulaire),Meaux et Ourcq,Transdev Marne-et-Ourcq,#f1c232,bus,C00908
 r9238037,5314,Bus 5314 : Place Lamant (Saint-Germain-en-Laye) ↔ Gare de Maule,Centre et Sud Yvelines,Transdev Sud Yvelines,#78c696,bus,C00112
 r9240299,7808,Bus 7808 : Gare de Cergy Préfecture ↔ Gare Routière Mantes-la-Ville,Île-de-France Ouest,Francilité Express Ouest,#3bb2ff,bus,C00652
-r9240941,32ZA,Bus 32ZA : Roissypole ↔ Goussainville RER D,Roissy Ouest,Keolis Roissy Pays de France Ouest,#E3B229,bus,C01815
+r9240941,1635,Bus 1635 : Roissypole ↔ Goussainville RER D,Roissy Ouest,Keolis Roissy Pays de France Ouest,#dc9600,bus,C01815
 r9241076,2377,Bus 2377 : Gare de Meaux (circulaire),Meaux et Ourcq,Transdev Marne-et-Ourcq,#00814f,bus,C00262
 r9241167,3503,Bus 3503 : Gare Nemours Parvis ↔ L'Étang Sec,Vallée du Loing - Nemours,Transdev Vallée du Loing,#D282BE,bus,C00819
 r9242016,3504,Bus 3504 : Carrefour de L'Europe ↔ Gare Nemours Parvis,Vallée du Loing - Nemours,Transdev Vallée du Loing,#FF5A00,bus,C00834
@@ -1173,7 +1173,7 @@ r9817423,1204,Bus 1204 : Gare de Conflans-Sainte-Honorine - Place Romagné ↔ G
 r9832132,4524,Bus 4524 : RER Gare Condorcet ↔ Sycomores,Cœur d'Essonne,Transdev Cœur Essonne,#d2d200,bus,C02461
 r9832633,4538,Bus 4538 : Gare de Bretigny ↔ Place des FFI,Cœur d'Essonne,Transdev Cœur Essonne,#82c8e6,bus,C00681
 r9832751,4550,Bus 4550 : La Mare aux Bourguignons (Égly) ↔ Collège la Fontaine aux Bergers (Ollainville),Cœur d'Essonne,Transdev Cœur Essonne,#0055c8,bus,C00682
-r9836790,R7,Bus R7 : Louvres RER D ↔ Puiseux-en-France,Roissy Ouest,Keolis Roissy Pays de France Ouest,#CEACD2,bus,C00234
+r9836790,1617,Bus 1617 : Louvres RER D ↔ Puiseux-en-France,Roissy Ouest,Keolis Roissy Pays de France Ouest,#d282be,bus,C00234
 r9836838,1314,Bus 1314 : Viarmes - Gare ↔ Baillon,Haut Val d'Oise,Keolis Nord Val d’Oise,#662483,bus,C00196
 r9836855,2122,Bus 2122 : Institution Fénélon ↔ Dammartin Juilly Saint-Mard Train K,Roissy Est,Keolis Roissy Pays de France Est,#8D5E2A,bus,C00203
 r9836912,1349,Bus 1349 : Collège Anna de Noailles - Lycée Gérard de Nerval ↔ Place Gambetta,Haut Val d'Oise,Keolis Nord Val d’Oise,#F28F42,bus,C02033
@@ -1358,9 +1358,9 @@ r17027380,415,Bus 415 : Verrières-Le-Buisson Sophie-Barat ↔ Le Plessis-Robins
 r17085637,5116,Bus 5116 : Saint-Quentin-en-Yvelines - Gare Routière Delouvrier ↔ Gare Routière de Mantes-la-Ville,Île-de-France Ouest,Francilité Express Ouest,#ff82b4,bus,C00061
 r17153146,5294,Bus 5294 : Limours - Forges-les-Bains,Centre et Sud Yvelines,Transdev Sud Yvelines,#00b397,bus,C00514
 r17232271,6163,Bus 6163 : Gare de Saint-Rémy-lès-Chevreuse ↔ Gare de Versailles-Château-Rive-Gauche (direct),Vélizy Vallées,Keolis Vélizy Vallée de la Bièvre,#d282be,bus,C00530
-r17270432,R2,Bus R2 : Gare(Survilliers-Fosses) ↔ Mairie Annexe de Fosses,Roissy Ouest,Keolis Roissy Pays de France Ouest,#F28E42,bus,C00229
-r17277066,R105,Bus R105 : Rue Neuve(Mareil-en-France) ↔ Institut Saint-Dominique (Mortefontaine),Roissy Ouest,Keolis Roissy Pays de France Ouest,#97D4E2,bus,C00240
-r17317637,R121,Bus R121 : Bergerie (Survilliers) - Gare ↔ Lycée Charles Baudelaire ou Collège Stendhal,Roissy Ouest,Keolis Roissy Pays de France Ouest,#81C391,bus,C02601
+r17270432,1612,Bus 1612 : Gare(Survilliers-Fosses) ↔ Mairie Annexe de Fosses,Roissy Ouest,Keolis Roissy Pays de France Ouest,#ff5a00,bus,C00229
+r17277066,1665,Bus 1665 : Rue Neuve(Mareil-en-France) ↔ Institut Saint-Dominique (Mortefontaine),Roissy Ouest,Keolis Roissy Pays de France Ouest,#82c8e6,bus,C00240
+r17317637,1681,Bus 1681 : Bergerie (Survilliers) - Gare ↔ Lycée Charles Baudelaire ou Collège Stendhal,Roissy Ouest,Keolis Roissy Pays de France Ouest,#82dc73,bus,C02601
 r17343868,6518,Bus 6518 : Gare de Vernouillet Verneuil ↔ Chapet - Clos Saint-Denis ↔ Gare de Vernouillet Verneuil,Poissy - Les Mureaux,Keolis Seine et Oise Est,#A0006E,bus,C00651
 r17343869,6511,Bus 6511 : Equevilly - Collège Léonard de Vinci ↔ Gare des Mureaux ↔ Hardricourt - Rue de Verdun,Poissy - Les Mureaux,Keolis Seine et Oise Est,#D2D200,bus,C00111
 r17364297,N146,Noctilien N146 : Paris - Gare de l'Est ↔ Gare de Survilliers - Fosses,Roissy Ouest,Keolis Roissy Pays de France Ouest,#00814F,bus,C02600
@@ -1495,4 +1495,4 @@ r21188093,P,Navette P : Rond-Point Camille Claudel ↔ Place de la Victoire,Pari
 r21203167,SUBB S,Bus SUBB Boucle Sud,Grand Paris Seine Ouest,Origami / Mobicité,#e0b03a,bus,C02825
 r21203756,TUVIM CV,Bus TUVIM Centre-Ville,Grand Paris Seine Ouest,Origami / Mobicité,#ff1400,bus,C01365
 r21203757,TUVIM ISG,Bus TUVIM Ile Saint-Germain,Grand Paris Seine Ouest,Origami / Mobicité,#f59eb2,bus,C02827
-r21211177,7711,Bus 7711,,,#5291CE,bus,
+r21211177,7711,Bus 7711 : Fontainebleau ↔ Évry-Courcouronnes,Fontainebleau - Moret,Transdev Pays de Fontainebleau,#3c91dc,bus,C02854
