@@ -10,7 +10,6 @@ Missing way 1101822997 details (to create shape for r331730 route)
 OSM QA : the geometry of the route r332719 is not a linestring. Check from 1565415172 way.
 OSM QA : the geometry of the route r332720 is not a linestring. Check from 40036590 way.
 Missing way 1039616960 details (to create shape for r370597 route)
-OSM QA : the geometry of the route r387824 is not a linestring. Check from 542221914 way.
 OSM QA : the geometry of the route r387827 is not a linestring. Check from 188660423 way.
 Missing way 211556854 details (to create shape for r395151 route)
 Missing way 729375345 details (to create shape for r401466 route)
@@ -47,11 +46,7 @@ OSM QA : the geometry of the route r1252614 is not a linestring. Check from 2395
 OSM QA : the geometry of the route r1253898 is not a linestring. Check from 1564359465 way.
 OSM QA : the geometry of the route r1253993 is not a linestring. Check from 690009608 way.
 OSM QA : the geometry of the route r1253997 is not a linestring. Check from 1564130716 way.
-OSM QA : the geometry of the route r1254450 is not a linestring. Check from 34856565 way.
 OSM QA : the geometry of the route r1254452 is not a linestring. Check from 53799097 way.
-OSM QA : the geometry of the route r1254453 is not a linestring. Check from 22768377 way.
-OSM QA : the geometry of the route r1254455 is not a linestring. Check from 22768377 way.
-OSM QA : the geometry of the route r1254456 is not a linestring. Check from 22768377 way.
 OSM QA : the geometry of the route r1255723 is not a linestring. Check from 1145625622 way.
 OSM QA : the geometry of the route r1255729 is not a linestring. Check from 1564330404 way.
 OSM QA : the geometry of the route r1257169 is not a linestring. Check from 140033650 way.
@@ -156,7 +151,6 @@ OSM QA : the geometry of the route r3061018 is not a linestring. Check from 1723
 Missing way 1101822997 details (to create shape for r3093216 route)
 OSM QA : the geometry of the route r3094380 is not a linestring. Check from 1396675110 way.
 OSM QA : the geometry of the route r3097928 is not a linestring. Check from 1551317079 way.
-Missing way 1017196702 details (to create shape for r3225013 route)
 Missing way 1101822997 details (to create shape for r3227018 route)
 OSM QA : the geometry of the route r3228396 is not a linestring. Check from 116858154 way.
 OSM QA : the geometry of the route r3235365 is not a linestring. Check from 32487685 way.
@@ -268,7 +262,6 @@ OSM QA : the geometry of the route r5265193 is not a linestring. Check from 7441
 OSM QA : the geometry of the route r5267337 is not a linestring. Check from 1558110518 way.
 OSM QA : the geometry of the route r5291897 is not a linestring. Check from 354201362 way.
 OSM QA : the geometry of the route r5298096 is not a linestring. Check from 1559278760 way.
-OSM QA : the geometry of the route r5415924 is not a linestring. Check from 543765699 way.
 OSM QA : the geometry of the route r5450944 is not a linestring. Check from 42094808 way
 OSM QA : the geometry of the route r5450945 is not a linestring. Check from 23063117 way.
 OSM QA : the geometry of the route r5451823 is not a linestring. Check from 261380145 way.
@@ -400,9 +393,7 @@ OSM QA : the geometry of the route r6594978 is not a linestring. Check from 1162
 OSM QA : the geometry of the route r6600463 is not a linestring. Check from 1047614062 way.
 OSM QA : the geometry of the route r6631327 is not a linestring. Check from 1567598040 way.
 OSM QA : the geometry of the route r6631340 is not a linestring. Check from 1567597494 way.
-OSM QA : the geometry of the route r6675474 is not a linestring. Check from 920248038 way
 OSM QA : the geometry of the route r6709117 is not a linestring. Check from 26260419 way.
-OSM QA : the geometry of the route r6709485 is not a linestring. Check from 238918682 way.
 OSM QA : the geometry of the route r6712781 is not a linestring. Check from 238918682 way.
 OSM QA : the geometry of the route r6715025 is not a linestring. Check from 25236544 way.
 OSM QA : the geometry of the route r6715054 is not a linestring. Check from 638228252 way.
@@ -410,8 +401,6 @@ OSM QA : the geometry of the route r6744093 is not a linestring. Check from 1413
 OSM QA : the geometry of the route r6748081 is not a linestring. Check from 750574940 way.
 OSM QA : the geometry of the route r6751735 is not a linestring. Check from 1380042643 way.
 OSM QA : the geometry of the route r6768639 is not a linestring. Check from 752093490 way.
-OSM QA : the geometry of the route r6769115 is not a linestring. Check from 1570631337 way
-OSM QA : the geometry of the route r6769160 is not a linestring. Check from 82362243 way.
 Missing way 232759316 details (to create shape for r6776130 route)
 OSM QA : the geometry of the route r6785274 is not a linestring. Check from 762779760 way.
 OSM QA : the geometry of the route r6785289 is not a linestring. Check from 378254267 way.
@@ -461,6 +450,7 @@ OSM QA : the geometry of the route r7095878 is not a linestring. Check from 4013
 OSM QA : the geometry of the route r7105211 is not a linestring. Check from 202972032 way.
 OSM QA : the geometry of the route r7105258 is not a linestring. Check from 1561506703 way.
 OSM QA : the geometry of the route r7142157 is not a linestring. Check from 25140060 way.
+OSM QA : the geometry of the route r7142189 is not a linestring. Check from 894271428 way.
 OSM QA : the geometry of the route r7194121 is not a linestring. Check from 45515272 way.
 Missing way 682853127 details (to create shape for r7226918 route)
 Missing way 770912660 details (to create shape for r7226919 route)
@@ -513,7 +503,6 @@ OSM QA : the geometry of the route r7779420 is not a linestring. Check from 6221
 OSM QA : the geometry of the route r7781935 is not a linestring. Check from 681831613 way.
 OSM QA : the geometry of the route r7783229 is not a linestring. Check from 138545764 way.
 OSM QA : the geometry of the route r7790643 is not a linestring. Check from 1557271629 way.
-OSM QA : the geometry of the route r7800436 is not a linestring. Check from 108447377 way.
 OSM QA : the geometry of the route r7801026 is not a linestring. Check from 49745626 way.
 OSM QA : the geometry of the route r7804633 is not a linestring. Check from 1446225895 way.
 OSM QA : the geometry of the route r7804895 is not a linestring. Check from 54378620 way.
@@ -560,10 +549,6 @@ OSM QA : the geometry of the route r8015962 is not a linestring. Check from 7070
 OSM QA : the geometry of the route r8016022 is not a linestring. Check from 1120336234 way.
 OSM QA : the geometry of the route r8039574 is not a linestring. Check from 1565193135 way.
 OSM QA : the geometry of the route r8042812 is not a linestring. Check from 338065823 way.
-OSM QA : the geometry of the route r8056668 is not a linestring. Check from 1570631337 way
-OSM QA : the geometry of the route r8056669 is not a linestring. Check from 152337214 way.
-OSM QA : the geometry of the route r8057158 is not a linestring. Check from 1570631337 way
-OSM QA : the geometry of the route r8057373 is not a linestring. Check from 82362243 way.
 OSM QA : the geometry of the route r8058029 is not a linestring. Check from 1563040540 way.
 OSM QA : the geometry of the route r8058030 is not a linestring. Check from 1563040121 way.
 OSM QA : the geometry of the route r8059641 is not a linestring. Check from 1570594128 way.
@@ -583,7 +568,6 @@ OSM QA : the geometry of the route r8099259 is not a linestring. Check from 1081
 OSM QA : the geometry of the route r8099265 is not a linestring. Check from 1081163575 way.
 OSM QA : the geometry of the route r8100667 is not a linestring. Check from 1331389460 way.
 OSM QA : the geometry of the route r8100669 is not a linestring. Check from 813241748 way
-OSM QA : the geometry of the route r8103141 is not a linestring. Check from 1079708905 way.
 OSM QA : the geometry of the route r8103143 is not a linestring. Check from 159161086 way.
 OSM QA : the geometry of the route r8103145 is not a linestring. Check from 61967205 way.
 OSM QA : the geometry of the route r8103146 is not a linestring. Check from 1081163575 way.
@@ -596,8 +580,6 @@ OSM QA : the geometry of the route r8122974 is not a linestring. Check from 6173
 OSM QA : the geometry of the route r8122977 is not a linestring. Check from 576017027 way.
 OSM QA : the geometry of the route r8122993 is not a linestring. Check from 205811439 way.
 OSM QA : the geometry of the route r8122996 is not a linestring. Check from 638228252 way.
-OSM QA : the geometry of the route r8122998 is not a linestring. Check from 401939060 way.
-OSM QA : the geometry of the route r8123000 is not a linestring. Check from 48523760 way.
 OSM QA : the geometry of the route r8123005 is not a linestring. Check from 1020809799 way.
 OSM QA : the geometry of the route r8123006 is not a linestring. Check from 164756869 way.
 OSM QA : the geometry of the route r8123009 is not a linestring. Check from 545702670 way.
@@ -617,13 +599,9 @@ OSM QA : the geometry of the route r8123057 is not a linestring. Check from 5759
 OSM QA : the geometry of the route r8123062 is not a linestring. Check from 457186873 way.
 Missing way 1015198522 details (to create shape for r8123063 route)
 OSM QA : the geometry of the route r8123131 is not a linestring. Check from 22788436 way.
-OSM QA : the geometry of the route r8124025 is not a linestring. Check from 1168473337 way.
-OSM QA : the geometry of the route r8124026 is not a linestring. Check from 1168473335 way.
 OSM QA : the geometry of the route r8132351 is not a linestring. Check from 238918682 way.
 OSM QA : the geometry of the route r8140184 is not a linestring. Check from 513266209 way
 OSM QA : the geometry of the route r8140258 is not a linestring. Check from 37549223 way.
-OSM QA : the geometry of the route r8159005 is not a linestring. Check from 1570631337 way
-OSM QA : the geometry of the route r8159595 is not a linestring. Check from 572531854 way.
 OSM QA : the geometry of the route r8185761 is not a linestring. Check from 1463970444 way.
 OSM QA : the geometry of the route r8185762 is not a linestring. Check from 1563213603 way.
 OSM QA : the geometry of the route r8187693 is not a linestring. Check from 188228335 way.
@@ -777,7 +755,6 @@ Missing way 682853127 details (to create shape for r9438600 route)
 OSM QA : the geometry of the route r9444085 is not a linestring. Check from 1559400286 way.
 OSM QA : the geometry of the route r9449195 is not a linestring. Check from 837535411 way.
 OSM QA : the geometry of the route r9449196 is not a linestring. Check from 1565148412 way.
-OSM QA : the geometry of the route r9458005 is not a linestring. Check from 108447377 way.
 OSM QA : the geometry of the route r9459608 is not a linestring. Check from 234917795 way.
 OSM QA : the geometry of the route r9592820 is not a linestring. Check from 1385090961 way.
 Missing way 950293365 details (to create shape for r9601355 route)
@@ -842,7 +819,6 @@ OSM QA : the geometry of the route r9864779 is not a linestring. Check from 2626
 OSM QA : the geometry of the route r9864780 is not a linestring. Check from 26260419 way.
 OSM QA : the geometry of the route r9864781 is not a linestring. Check from 26260419 way.
 OSM QA : the geometry of the route r9864784 is not a linestring. Check from 750333579 way.
-OSM QA : the geometry of the route r9864786 is not a linestring. Check from 238918682 way.
 OSM QA : the geometry of the route r9864787 is not a linestring. Check from 238918682 way.
 OSM QA : the geometry of the route r9864789 is not a linestring. Check from 238918682 way.
 OSM QA : the geometry of the route r9864790 is not a linestring. Check from 238918682 way.
@@ -892,7 +868,6 @@ Missing way 683885508 details (to create shape for r10044776 route)
 Missing way 468901367 details (to create shape for r10044874 route)
 Missing way 683885508 details (to create shape for r10044875 route)
 OSM QA : the geometry of the route r10073596 is not a linestring. Check from 456228799 way
-OSM QA : the geometry of the route r10223149 is not a linestring. Check from 1238964953 way.
 OSM QA : the geometry of the route r10237084 is not a linestring. Check from 261220657 way.
 Missing way 477950732 details (to create shape for r10237085 route)
 OSM QA : the geometry of the route r10334245 is not a linestring. Check from 174897331 way
@@ -1062,8 +1037,6 @@ Missing way 129029018 details (to create shape for r11487683 route)
 Missing way 4746993 details (to create shape for r11487993 route)
 Missing way 1512519191 details (to create shape for r11530478 route)
 OSM QA : the geometry of the route r11642515 is not a linestring. Check from 839608055 way.
-OSM QA : the geometry of the route r11653509 is not a linestring. Check from 453551270 way.
-OSM QA : the geometry of the route r11653510 is not a linestring. Check from 453551270 way.
 Missing way 333978854 details (to create shape for r11748382 route)
 Missing way 333978854 details (to create shape for r11748383 route)
 Missing way 333978854 details (to create shape for r11748384 route)
@@ -1280,8 +1253,6 @@ Missing way 128526909 details (to create shape for r20234642 route)
 Missing way 755451487 details (to create shape for r20234650 route)
 OSM QA : the geometry of the route r20298120 is not a linestring. Check from 563247052 way.
 OSM QA : the geometry of the route r20298165 is not a linestring. Check from 490380061 way.
-OSM QA : the geometry of the route r20318413 is not a linestring. Check from 27021854 way.
-OSM QA : the geometry of the route r20318414 is not a linestring. Check from 27021854 way.
 OSM QA : the geometry of the route r20340221 is not a linestring. Check from 486317509 way
 OSM QA : the geometry of the route r20340222 is not a linestring. Check from 1489621225 way
 OSM QA : the geometry of the route r20359844 is not a linestring. Check from 107527501 way.
@@ -1311,8 +1282,6 @@ OSM QA : the geometry of the route r21086418 is not a linestring. Check from 478
 OSM QA : the geometry of the route r21086419 is not a linestring. Check from 478397128 way
 OSM QA : the geometry of the route r21086574 is not a linestring. Check from 464784330 way.
 Missing way 384824102 details (to create shape for r21089309 route)
-OSM QA : the geometry of the route r21099645 is not a linestring. Check from 366635889 way.
-OSM QA : the geometry of the route r21099647 is not a linestring. Check from 175753725 way.
 OSM QA : the geometry of the route r21113007 is not a linestring. Check from 48780068 way.
 OSM QA : the geometry of the route r21113008 is not a linestring. Check from 456228801 way.
 OSM QA : the geometry of the route r21115048 is not a linestring. Check from 470732718 way.
@@ -1412,3 +1381,5 @@ Missing way 1264851800 details (to create shape for r21499948 route)
 OSM QA : the geometry of the route r21528859 is not a linestring. Check from 549733448 way
 Missing way 1025153523 details (to create shape for r21709981 route)
 Missing way 1569454817 details (to create shape for r21709987 route)
+Missing way 870562586 details (to create shape for r21822241 route)
+Missing way 508174922 details (to create shape for r21822813 route)
